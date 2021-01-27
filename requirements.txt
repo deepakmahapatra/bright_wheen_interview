@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+configparser
+psycopg2-binary
+pandas
+pytest

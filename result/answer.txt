@@ -1,0 +1,2 @@
+The total number of providers: 1537
+The max number of providers are in zip: 92154
